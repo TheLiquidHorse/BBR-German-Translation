@@ -289,12 +289,12 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 281=Rang @1
 282=Sturzschaden wurde am  1.6.2018  22:53 hinzugefügt //!
 283=Zuschauer Modus
-284=Sie wurden aus dem Fahrzeug geworfen
+284=Du wurdest aus dem Fahrzeug geworfen!
 285=Squad @1 (@2/8)
 286=Squad @1 - @2 - (@3/8)
 287=Einsetzen auf Sammelpunkt
 288=Bandage
-289=Sie können nicht mehr als 2 Fahrzeuge freischalten
+289=Du kannst nicht mehr als 2 Fahrzeuge freischalten
 290=Verteidiger haben Gewonnen
 291=Angreifer haben gewonnen
 292=Seitenwechsel
@@ -727,7 +727,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 719=Clan Eniladungen//
 720=Einladungscode erstellen//
 721=Läuft ab in//
-722=Die Einladung Läuft ab in @1, sie kann nur einmal verwendet werden.//
+722=Die Einladung läuft ab in @1, sie kann nur einmal verwendet werden.//
 723=Clan Einstellung verwalten//
 724=Neue Einladung erstellen//
 725=Erstelle neue Einladung für künftige Mitglieder.//
@@ -739,7 +739,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 731=12 Stunden
 732=24 Stunden
 733=Du hast keine Berechtigung einladungen zu erstellen.
-734=Geben sie einen Clan code ein.
+734=Gebe einen Clan Code ein.
 735=Code ungültig oder abgelaufen.
 736=@1/@2//																			For Magazine Check, @1 = Current ammo,@2 = Max Ammo
 737=@1 FPS//																		Frames per second
@@ -767,13 +767,13 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 759=Ziel @1 ist jetzt unter Feindlicher Kontrolle
 760=Ziel @1 eingenommen
 761=Der Gegner hat @1 eingenommen
-762=Sie wurden// Promoted text
+762=Du wurdest befördert
 763=Befördert// Promoted text
 764=Freigeschaltet//
 765=Spieler im Gefecht.
 766=Helligkeit/Farbspektrum//
-767=Wollen sie die änderungen übernehmen ?//	For Options
-768=Marker größe//
+767=Willst du die Änderungen übernehmen ?//	For Options
+768=Marker Größe//
 769=Marker Farbe//
 770=Gegner befindet sich in der Sicherheitszone.
 771=Ziehen//
@@ -782,7 +782,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 774=Wiederbelebt//
 775=Leertaste gedrückt halten um aufzugeben.//
 776=Nächster Sanitäter
-777=Sie werden gezogen.//
+777=Du wirst gezogen.//
 778=Unser Team gewinnt !//
 779=Der Feind gewinnt !//
 780=Wir Gewinnen.//
@@ -803,7 +803,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 795=Du wurdest vor kurzem aus dem Squad geworfen. In @1 Sekunde(n) kannst du wieder beitreten.
 796=Squad ist gesperrt.
 797=Du kannst den Squad nicht sperren während du der einzige bist.
-798=Sie verbluten !
+798=Du blutest!
 799=Verarztungs Bonus
 800=Werfen//
 801=Heile dich Selber//
@@ -930,7 +930,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 922=Destroy @1 @2 times.
 923=oder
 924=@1 für das Verarsten von Verbündeten.
-925=Passen sie Farben, Oberflächen und weiterers an.//
+925=Passe Farben, Oberflächen und weiterers an.//
 926=Empfindlichkeit einstellen.//
 927=Eingabe umstellen.//
 928=Audioeinstellungen anpassen.//
@@ -950,7 +950,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 942=Stunden//
 943=Minuten//
 944=Gültig für//
-945=Bitte geben sie eine gültige zei ein.//
+945=Bitte gebe eine gültige Zeit ein.//
 946=Die Einladung wird in mindestens 5 Minuten ablaufen.//
 947=Bild ändern//
 948=Farbe ändern//
@@ -1027,7 +1027,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 1019=Spamming//
 1020=Rassismus Diskriminierung//
 1021=OK//
-1022=Sie haben @1 wegen @2 gemeldet
+1022=Du hast @1 wegen @2 gemeldet
 1023=Flaggen sichtbarkeit//
 1024=Async rendering (Für alte hardware)//
 1025=Lod Qualität//
@@ -1049,7 +1049,7 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 1041=Lehnen umschalten//
 1042=Eingabe um zu Schließen//
 1043=Schießstand//
-1044=Testen sie alle Waffen und Ausrüstungen//
+1044=Teste alle Waffen und Ausrüstungen//
 1045=Bitte Beachten!/n1) Verschiedene Mechaniken sind nicht verfügbar oder funktioniernen nicht Ordnungsgemäß./n2)Auf dem Schießstand gibt es keine Fahrzeuge./n3)NOCLIP ist auf dem Schießstand verfügbar, Drücke TAB um es einzuschalten/n4)Alle Waffen und Aufsätze sind Freigeschaltet./n5)Sie haben Unbegrenzt Munition
 1046=NEU//New Items available
 1047=Fahrer Perspektive
@@ -1207,11 +1207,11 @@ UPDATES: Vafels (05/12/2018), Vafels (26/03/2019), Vafels (19/05/2019), MangoMar
 1199=Abschuss Fadenkreuz Größe//
 1200=Fadenkreuz aktiviert//
 1201=Automatisch bereit nach Tot//
-1202=Sie wurden gebannt!//
+1202=Du wurdest gebannt!//
 1203=Grund//
-1204=Sie wurden gespeert bis zum @1./nSIe können erst in @2 wieder spielen./n/nWenn sie denken das der Bann nicht gerechtfertig ist kontaktieren sie den Support.//
+1204=Du wurdest gespeert bis zum @1./nSIe können erst in @2 wieder spielen./n/nWenn du denkst, das der Bann nicht gerechtfertig ist, kontaktiere den Support.//
 1205=Gemeldet von @1
-1206=Sie wurden gewarnt//
+1206=Du wurdest gewarnt//
 1207=Halte @1 zum schließen
 1208=Wir haben die Bombe platziert!
 1209=Der Gegner hat die Bombe platziert!
